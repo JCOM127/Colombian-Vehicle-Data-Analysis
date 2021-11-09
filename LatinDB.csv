@@ -1,0 +1,70 @@
+Marca,Modelo,Precio,Seguridad
+Renault,Captur,81.500.000,70
+Renault,Duster (B),84.000.000,70
+Renault,Kangoo,61.900.000,70
+Renault,Sandero (A),50.900.000,70
+Renault,Kwid,43.800.000,60
+Renault,Logan (A),61.800.000,70
+Renault,Stepway (A),67.700.000,70
+Renault,Sandero (B),50.900.000,40
+Renault,Logan (B),61.800.000,50
+Renault,Stepway (B),67.700.000,50
+Renault,Duster (A),67.800.000,0
+Chevrolet,Onix HB,69.300.000,100
+Chevrolet,Onix Plus,70.700.000,100
+Chevrolet,New Aveo (A),37.000.000,70
+Chevrolet,Prisma/Onix (B) N/A,N/A,60
+Chevrolet,New Aveo (B),37.000.000,60
+Chevrolet,Aveo,37.000.000,30
+Chevrolet,Onix,55.400.000,30
+Chevrolet,Sail,40.500.000,20
+Chevrolet,N300,58.000.000,10
+Chevrolet,Spark GT,45.000.000,0
+Mazda,Mazda 2,73.700.000,50
+Nissan,Frontier,127.000.000,80
+Nissan,Kicks,96.000.000,80
+Nissan,Murano,172.000.000,80
+Nissan,March,61.000.000,30
+Kia,New Rio Sedan,69.200.000,40
+Kia,Picanto,57.400.000,10
+Kia,Rio Sedan,69.200.000,10
+Kia,Picanto/Morning N/A,N/A,0
+Toyota,Yaris (B),72.100.000,80
+Toyota,Yaris (A),N/A,20
+Toyota,Corolla,70.000.000,100
+Toyota,Hilux,192.500.000,100
+Toyota,New Corola,95.200.000,100
+Toyota,Rav 4,162.500.000,100
+Volkswagen,Golf VII,55.500.000,100
+Volkswagen,Jetta,54.000.000,100
+Volkswagen,Polo,71.000.000,100
+Volkswagen,Tiguan,107.000.000,100
+Volkswagen,T-Cross,102.000.000,100
+Volkswagen,Virtus,59.000.000,100
+Volkswagen,Suran N/A,N/A,60
+Volkswagen,Gol,44.500.000,N/A
+Volkswagen,Voyage,44.500.000,N/A
+Suzuki,Baleno,60.170.000,0
+Suzuki,Swift,66.490.000,0
+Suzuki,Alto,35.600.000,N/A
+Suzuki,Spresso,40.200.000,N/A
+Ford,Figo (A),N/A,80
+Ford,Ranger (A),140.000.000,80
+Ford,KA (A),N/A,70
+Ford,Ranger (B),140.000.000,70
+Ford,Figo (B),N/A,30
+Ford,KA (B),N/A,30
+Hyundai,HB20 Gravity,61.000.000,40
+Hyundai,Accent,50.000.000,10
+Hyundai,HB20 Getz (A),51.000.000,0
+Cherry,Cherry Tiggo 3,50.990.000,10
+BYD,BYD F0,26.300.000,0
+Mitsubishi,L200,130.000.000,20
+Mitsubishi,Elipse,125.000.000,70
+Peugeot,Peugeot 301,49.990.000,60
+Peugeot,Peugeot 208,51.900.000,50
+Fiat,New Palio,35.900.000,35
+Fiat,Mobi,40.000.000,30
+Fiat,Toro,110.000.000,80
+Fiat,500X,79.990.000,100
+Fiat,Argo / Cronos,46.990.000,70
