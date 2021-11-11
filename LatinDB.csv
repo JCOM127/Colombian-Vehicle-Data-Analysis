@@ -45,7 +45,8 @@ Volkswagen,Suran N/A,N/A,60
 Volkswagen,Gol,44.500.000,N/A
 Volkswagen,Voyage,44.500.000,N/A
 Suzuki,Baleno,60.170.000,0
-Suzuki,Swift,66.490.000,0
+Suzuki,Swift(A),66.490.000,0
+Suzuki,Swift(B),36.000.000, 40
 Suzuki,Alto,35.600.000,N/A
 Suzuki,Spresso,40.200.000,N/A
 Ford,Figo (A),N/A,80
@@ -54,9 +55,16 @@ Ford,KA (A),N/A,70
 Ford,Ranger (B),140.000.000,70
 Ford,Figo (B),N/A,30
 Ford,KA (B),N/A,30
+Ford,Focus (B),56.000.000,70
+Ford,Fiesta (B),N/A,80
+Ford,Ecosport,52.000.000,80
 Hyundai,HB20 Gravity,61.000.000,40
 Hyundai,Accent,50.000.000,10
 Hyundai,HB20 Getz (A),51.000.000,0
+Hyundai,HB20 (B),51.000.000,40
+Hyundai,HB20 (A13),51.000.000,70
+Hyundai, Grand i10, 34.000.000,10
+Hyundai, Creta (B),N/A,70
 Cherry,Cherry Tiggo 3,50.990.000,10
 BYD,BYD F0,26.300.000,0
 Mitsubishi,L200,130.000.000,20
