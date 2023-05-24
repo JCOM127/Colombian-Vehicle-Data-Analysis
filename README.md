@@ -1,4 +1,4 @@
-Title: "Analysis of the Colombian Vehicle Market: Sales Trends and Safety Evaluation"
+Analysis of the Colombian Vehicle Market: Sales Trends and Safety Evaluation
 
 Description:
 This GitHub repository presents an in-depth analysis of the Colombian vehicle market, focusing on sales trends and safety evaluation. The analysis is conducted using popular Python libraries such as Pandas, NumPy, and Matplotlib, which provide powerful tools for data manipulation, analysis, and visualization.
